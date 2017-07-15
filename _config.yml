@@ -59,6 +59,8 @@ kramdown:
   input: GFM
 
 RSS: false
+feed:
+  path: atom.xml
 
 # Plugins
 gems: [jekyll-paginate, jekyll-feed]
