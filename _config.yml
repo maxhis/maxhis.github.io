@@ -60,8 +60,5 @@ kramdown:
 
 RSS: false
 
-gems:
-  - jekyll-feed
-
 # Plugins
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-feed]
