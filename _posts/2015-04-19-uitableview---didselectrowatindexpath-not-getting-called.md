@@ -11,7 +11,7 @@ tags: [iOS,UIKit]
 
 <!--more-->
 
-![SZTool screenshot]({{ site.baseurl }}assets/img/didSelectRowAtIndexPath-not-working2.png)
+![SZTool screenshot]({{ site.baseurl }}/assets/img/didSelectRowAtIndexPath-not-working2.png)
 
 为了解决这个问题，昨晚搞到了两点多，好在后来还是找到了问题所在，原因很隐蔽，记录下来，希望能帮到碰到同样问题的同学。
 
