@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Google Voice申请美国手机号全攻略"
+title: "Google Voice免费申请美国手机号全攻略"
 cover: http://ot58m681p.bkt.clouddn.com/blog/2017-07-27-100204.jpg
 date: 2017-07-27 18:00:00 +0800
 category:
