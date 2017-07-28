@@ -106,7 +106,7 @@ nohup ./gv.sh
 
 ## 4. 在手机上接打GV电话
 
-手机号自然要能在手机上接打电话才好，只需要几步简单设置就好了，这里需要先安装Google Hangouts（环聊）应用：
+手机号自然要能在手机上接打电话才好，只需要几步简单设置就好了，这里需要先安装[Google Hangouts（环聊）App](https://hangouts.google.com/)：
 
 首先登录网页版，删除绑定号码和关闭Call Screening(以下图片来自：http://googlevoice.net/index.php/archives/1/)：
 
