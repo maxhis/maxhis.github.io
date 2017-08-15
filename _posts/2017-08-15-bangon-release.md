@@ -2,9 +2,10 @@
 layout: post
 title: "Bangon-瓦工助手App上架"
 subtitle: "Bandwagon主机管理App，也是我上架的第一个收费App"
+cover: http://ot58m681p.bkt.clouddn.com/blog/2017-08-15-bangon_bg.png
 date: 2017-08-15 21:00:00 +0800
-category: 我的作品
-tags: 瓦工助手 Bandwagon 我的作品
+category: 我的作品 App
+tags: 瓦工助手 Bandwagon 我的作品 App
 ---
 
 我的第一个收费App[瓦工助手（Bangon）](https://itunes.apple.com/app/id1267833691)终于上架了，是一个[Bandwagon](https://bandwagonhost.com/aff.php?aff=16921)主机管理App，App很简洁，但功能还算强大，涵盖了对Bandwagon主机的常用基本管理，主机管理在手机上轻松搞定：
