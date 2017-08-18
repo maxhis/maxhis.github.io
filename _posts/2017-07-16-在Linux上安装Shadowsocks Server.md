@@ -7,7 +7,7 @@ category: Shadowsocks
 tags: Shadowsocks Linux
 ---
 
-[Shadowsocks](https://shadowsocks.org)大家都懂的，科学上网神器，搭建方便，速度快。用了好几年了，最近又在[搬瓦工](https://bandwagonhost.com/aff.php?aff=16921)上新买了一台主机，系统是Debian 9，安装Shadowsocks很简单，在这里记录一下以备有下一台主机时翻阅。
+[Shadowsocks](https://shadowsocks.org)大家都懂的，科学上网神器，搭建方便，速度快。用了好几年了，最近又在[搬瓦工](https://bwh1.net/aff.php?aff=16921)上新买了一台主机，系统是Debian 9，安装Shadowsocks很简单，在这里记录一下以备有下一台主机时翻阅。
 
 我安装的是`C with libev`版本，在Debian 9或Ubuntu 16.10以上版本的官方软件库里已经集成了，网上大部分教程都是自己去编译源码，其实大可不必。
 
