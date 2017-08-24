@@ -16,22 +16,22 @@ tags: 瓦工助手 Bandwagon 我的作品 App
 - ✅  创建快照备份，并随时恢复
 - ✅  重装操作系统
 - ✅  机房迁移
-- ☑️  Shell集成
+- ✅  Shell集成
 
 App Store链接：[https://itunes.apple.com/app/id1267833691](https://itunes.apple.com/app/id1267833691)
 
 ## 放几个兑换码，手慢无：
 
-- 3MEAMRPPTHP7
-- FFHJF9TF64JF
-- XEKNF7FNLY6M
-- WHR766KT6E44
-- PYPPRLXAXETH
-- 7HREML6THEH3
-- REW74A4HEAKW
-- 97LNXHT7MEY9
-- 6J9WE6W7M3Y7
-- YTM3PT4YHL34
+- ~~3MEAMRPPTHP7~~
+- ~~FFHJF9TF64JF~~
+- ~~XEKNF7FNLY6M~~
+- ~~WHR766KT6E44~~
+- ~~PYPPRLXAXETH~~
+- ~~7HREML6THEH3~~
+- ~~REW74A4HEAKW~~
+- ~~97LNXHT7MEY9~~
+- ~~6J9WE6W7M3Y7~~
+- ~~YTM3PT4YHL34~~
 
 ## 屏幕截图：
 
