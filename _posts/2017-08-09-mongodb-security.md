@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MongoDB基本安全设置"
-cover: http://ot58m681p.bkt.clouddn.com/blog/2017-08-09-051803.jpg
+cover: https://om4ukr2l3.qnssl.com/blog/2017-08-09-051803.jpg
 date: 2017-08-09 14:00:00 +0800
 category: Linux
 tags: MongoDB
@@ -11,7 +11,7 @@ tags: MongoDB
 
 直到有一天当我在call REST API的时候发现没有数据返回了，登录到后台一看，数据全被清掉了，还留下一条让支付比特币去赎回数据的记录。。。
 
-![](http://ot58m681p.bkt.clouddn.com/blog/2017-08-09-151209.jpg)
+![](https://om4ukr2l3.qnssl.com/blog/2017-08-09-151209.jpg)
 
 因为是第一次使用MongoDB，所以基本的安全措施都没做，等于是裸奔在互联网上的一个数据库，谁都可以访问，这不被黑客访问到就怪了。趁着今天有空，稍微研究了一下MongoDB的安全设置。
 

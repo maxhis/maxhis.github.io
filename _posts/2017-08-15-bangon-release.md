@@ -2,7 +2,7 @@
 layout: post
 title: "Bangon-瓦工助手App上架"
 subtitle: "Bandwagon主机管理App，也是我上架的第一个收费App"
-cover: http://ot58m681p.bkt.clouddn.com/blog/2017-08-15-bangon_bg.png
+cover: https://om4ukr2l3.qnssl.com/blog/2017-08-15-bangon_bg.png
 date: 2017-08-15 21:00:00 +0800
 category: 我的作品 App
 tags: 瓦工助手 Bandwagon 我的作品 App

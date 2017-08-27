@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "使用Nginx在同一台机器的80端口开启多个服务"
-cover: http://ot58m681p.bkt.clouddn.com/blog/2017-07-21-140334.jpg
+cover: https://om4ukr2l3.qnssl.com/blog/2017-07-21-140334.jpg
 date: 2017-07-21 21:00:00 +0800
 category: Linux
 tags: Linux Nginx

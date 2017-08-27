@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "快速在Linux上安装Shadowsocks Server"
-cover: http://ot58m681p.bkt.clouddn.com/netssocks.png
+cover: https://om4ukr2l3.qnssl.com/netssocks.png
 date: 2017-07-16 11:00:00 +0800
 category: Shadowsocks
 tags: Shadowsocks Linux
