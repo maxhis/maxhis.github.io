@@ -131,5 +131,8 @@ s.setAttribute('data-timestamp', +new Date());
 <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
 <script src="{{ site.baseurl }}/assets/js/prism.js"></script>
 <script src="{{ site.baseurl }}/assets/js/index.min.js"></script>
+{% if jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
 </body>
 </html>
