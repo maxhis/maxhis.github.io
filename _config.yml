@@ -63,4 +63,4 @@ feed:
   path: atom.xml
 
 # Plugins
-gems: [jekyll-paginate, jekyll-feed]
+plugins: [jekyll-paginate, jekyll-feed, jekyll-gist]
