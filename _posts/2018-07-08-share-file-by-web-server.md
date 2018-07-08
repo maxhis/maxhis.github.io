@@ -3,7 +3,7 @@ layout: post
 title: "以Web Server的方式分享本地文件"
 date: 2018-07-08 09:30:00 +0800
 category: Linux
-tags: Linux Python "Web Server"
+tags: Linux Python WebServer
 ---
 
 偶尔会需要将本地文件临时分享给其他人，建个 FTP 显得有点小题大作，而 Web Server 会是更方便且轻量级的方案。
