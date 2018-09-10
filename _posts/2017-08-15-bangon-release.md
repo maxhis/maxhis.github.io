@@ -10,13 +10,13 @@ tags: 瓦工助手 Bandwagon 我的作品 App
 
 我的第一个收费App[瓦工助手（Bangon）](https://itunes.apple.com/app/id1267833691)终于上架了，是一个[Bandwagon](https://bwh1.net/aff.php?aff=16921)主机管理App，App很简洁，但功能还算强大，涵盖了对Bandwagon主机的常用基本管理，主机管理从此在手机上轻松搞定：
 
-- ✅  主机套餐余量查询
-- ✅  主机详细信息查询及修改
-- ✅  启动/关闭/重启主机
-- ✅  创建快照备份，并随时恢复
-- ✅  重装操作系统
-- ✅  机房迁移
-- ✅  Shell集成
+* [x] 主机套餐余量查询
+* [x] 主机详细信息查询及修改
+* [x] 启动/关闭/重启主机
+* [x] 创建快照备份，并随时恢复
+* [x] 重装操作系统
+* [x] 机房迁移
+* [x] Shell集成
 
 App Store链接：[https://itunes.apple.com/app/id1267833691](https://itunes.apple.com/app/id1267833691)
 
