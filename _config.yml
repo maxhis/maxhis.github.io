@@ -2,7 +2,7 @@
 title: 'Ever Notes'
 description: '我是iStar，85后程序员，App开发者。很高兴能在这里与你分享我对技术和生活的思考。'
 keyword: 'Ever Notes, iOS, Android, App开发, Node.js'
-url: 'http://15tar.com' # your host
+url: '15tar.com' # your host
 baseurl: ''
 
 # Navigation links
