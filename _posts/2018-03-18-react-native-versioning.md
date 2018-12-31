@@ -3,7 +3,7 @@ layout: post
 title: "React Native版本号管理"
 category: "React Native"
 tags: ["React Native", "版本号管理"]
-cover: "https://om4ukr2l3.qnssl.com/blog/2018-03-18-124647.jpg"
+cover: "/assets/img/2018-03-18-124647.jpg"
 ---
 
 经过近两个月的学习和开发，第一个用React Native开发的App已经上线了，一次搞定两个端的感觉真好，我以后自己的项目应该会首选React Native来做了。其实还有一个让我比较难受的是版本号不好管理，在package.json里有一个js版本号，Android和iOS分别又有一个自己的版本号，理想是能够统一成一个（这里说的是versionName）。

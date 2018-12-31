@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "延长SSH会话超时时间"
-cover: https://om4ukr2l3.qnssl.com/blog/2017-07-31-053512.jpg
+cover: /assets/img/2017-07-31-053512.jpg
 date: 2017-07-31 14:00:00 +0800
 category: Linux
 tags: SSH Linux

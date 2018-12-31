@@ -13,8 +13,8 @@ tags: iOS 开发小记 UITableView
 上面的这种方式可能有一定 iOS 开发经验的人也知道，在这里再分享一种大部分人可能不知道的方式：和上面的原理是一样的，还是添加`backgroundView`，只是手写 UI 稍微有些麻烦，我们完全在 Interface Builder 里实现：
 
 1. 在 Storyboard 中选中 UITableView 所在的scene；
-2. 拖拽一个`UIView`到『Scene Dock』：![](https://om4ukr2l3.qnssl.com/blog/2018-06-30-125819.jpg)
-3. 此时可以往刚刚拖拽的view上添加内容，这里为了简单，只添加了一个 label。同时为这个view添加 IBOutlet，比如命名为`noItemsView`：![](https://om4ukr2l3.qnssl.com/blog/2018-06-30-130253.jpg)
-4. 将刚刚view 设置为 UITableView 的`backgroundView`：![](https://om4ukr2l3.qnssl.com/blog/2018-06-30-130604.jpg)
-5. Done！![](https://om4ukr2l3.qnssl.com/blog/2018-06-30-130623.jpg)
+2. 拖拽一个`UIView`到『Scene Dock』：![](/assets/img/2018-06-30-125819.jpg)
+3. 此时可以往刚刚拖拽的view上添加内容，这里为了简单，只添加了一个 label。同时为这个view添加 IBOutlet，比如命名为`noItemsView`：![](/assets/img/2018-06-30-130253.jpg)
+4. 将刚刚view 设置为 UITableView 的`backgroundView`：![](/assets/img/2018-06-30-130604.jpg)
+5. Done！![](/assets/img/2018-06-30-130623.jpg)
 

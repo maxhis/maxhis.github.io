@@ -2,7 +2,7 @@
 layout: post
 title: "Bangon-瓦工助手App上架"
 subtitle: "Bandwagon主机管理App，也是我上架的第一个收费App"
-cover: https://om4ukr2l3.qnssl.com/blog/2017-08-15-bangon_bg.png
+cover: /assets/img/2017-08-15-bangon_bg.png
 date: 2017-08-15 21:00:00 +0800
 category: 我的作品 App
 tags: 瓦工助手 Bandwagon 我的作品 App
@@ -35,14 +35,14 @@ App Store链接：[https://itunes.apple.com/app/id1267833691](https://itunes.app
 
 ## 屏幕截图：
 
-![](https://om4ukr2l3.qnssl.com/bangon/IMG_0675.JPG)
+![](/assets/img/bangon/IMG_0675.JPG)
 
-![](https://om4ukr2l3.qnssl.com/bangon/IMG_0678.JPG)
+![](/assets/img/bangon/IMG_0678.JPG)
 
-![](https://om4ukr2l3.qnssl.com/bangon/IMG_0679.JPG)
+![](/assets/img/bangon/IMG_0679.JPG)
 
-![](https://om4ukr2l3.qnssl.com/bangon/IMG_0681.JPG)
+![](/assets/img/bangon/IMG_0681.JPG)
 
-![](https://om4ukr2l3.qnssl.com/bangon/IMG_0687.JPG)
+![](/assets/img/bangon/IMG_0687.JPG)
 
 

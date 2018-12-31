@@ -3,7 +3,7 @@ layout: post
 title: "React Native的国际化"
 category: "React Native"
 tags: ["React Native", I18n, 国际化]
-cover: "https://om4ukr2l3.qnssl.com/blog/2018-03-18-124647.jpg"
+cover: "/assets/img/2018-03-18-124647.jpg"
 ---
 
 最近在玩React Native，一套代码在多个平台使用确实很爽，而当App做大以后国际化是不可避免的一个问题。趁着元旦假期有空研究了一下，虽然没有Android(不是iOS)上那么方便，但也不算太麻烦。
@@ -64,7 +64,7 @@ locales
 ```
 
 > 需要注意的是，对iOS来说，还需要手动在XCode中添加多语言支持，如下图：
-> ![](https://om4ukr2l3.qnssl.com/blog/2018-01-02-072457.jpg)
+> ![](/assets/img/2018-01-02-072457.jpg)
 
 ## 在React Native中使用资源文件
 

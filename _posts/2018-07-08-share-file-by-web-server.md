@@ -15,5 +15,5 @@ tags: Linux Python WebServer
 
 然后告诉对方你的 IP，对方就可以通过 http://xxx.xxx.xxx.xxx:8000 访问或下载你的本地文件了。
 
-![](https://om4ukr2l3.qnssl.com/blog/2018-07-08-013227.png)
+![](/assets/img/2018-07-08-013227.png)
 
