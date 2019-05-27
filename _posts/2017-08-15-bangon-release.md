@@ -8,7 +8,7 @@ category: 我的作品 App
 tags: 瓦工助手 Bandwagon 我的作品 App
 ---
 
-我的第一个收费App[瓦工助手（Bangon）](https://itunes.apple.com/app/id1267833691)终于上架了，是一个[Bandwagon](https://bwh1.net/aff.php?aff=16921)主机管理App，App很简洁，但功能还算强大，涵盖了对Bandwagon主机的常用基本管理，主机管理从此在手机上轻松搞定：
+我的第一个收费App[瓦工助手（Bangon）](https://itunes.apple.com/app/id1267833691)终于上架了，是一个[Bandwagon](https://bwh88.net/aff.php?aff=47540)主机管理App，App很简洁，但功能还算强大，涵盖了对Bandwagon主机的常用基本管理，主机管理从此在手机上轻松搞定：
 
 * [x] 主机套餐余量查询
 * [x] 主机详细信息查询及修改
