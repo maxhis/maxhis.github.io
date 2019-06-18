@@ -8,7 +8,25 @@ tags: [Apache]
 
 事情起源于前段时间做的[开发者导航网站 oio.dev](https://oio.dev) 的几个链接加了aff，又不想把带aff的链接直接暴露出来，于是就想着能不能做一个简单的跳转服务。研究了很久，什么短链接的原理都看了一遍，最后发现基于Apache的htaccess是最简单的。
 
-其实就是添加一些htaccess的跳转规则：打开网站根目录的`.htacesss`文件，比如你想把`/go/jms`跳转到`https://justmysocks1.net/members/aff.php?aff=2084`，只需要添加一条301跳转即可：
+htaccess默认是不开启的，需要修改站点的conf文件，如example.com.conf，在`VirtualHost`节点后添加以下内容（记得改成自己的目录）：
+
+```xml
+....
+</VirtualHost>
+<Directory /var/www/html/example.com/public_html>
+    Options Indexes FollowSymLinks
+    AllowOverride All
+    Require all granted
+</Directory>
+```
+
+然后重启Apache服务：
+
+```shell
+sudo systemctl reload apache2
+```
+
+最后添加一些htaccess的跳转规则：打开网站根目录的`.htacesss`文件，比如你想把`/go/jms`跳转到`https://justmysocks1.net/members/aff.php?aff=2084`，只需要添加一条301跳转即可：
 
 ```shell
 Redirect 301 /go/jms https://justmysocks1.net/members/aff.php?aff=2084
