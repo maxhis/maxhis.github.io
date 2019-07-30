@@ -127,7 +127,7 @@ $('#double_your_doge_bet_win').bind("DOMSubtreeModified", function (event) {
 
 经过几天的实践证明，我的想法基本上可行的，但要注意两点：**起始投注额要足够小（0.038），本金要足够大（500以上）**，毕竟2的n次幂还是很可怕的。
 
-FreeDogecoin还有个孪生网站叫FreeBitcoin，其实这才是人家的主营业务，这个方法也是通用的，只需要把脚本的页面元素ID改一下即可：
+FreeDogecoin还有个孪生网站叫[FreeBitcoin](https://freebitco.in/?r=5690044)，其实这才是人家的主营业务，这个方法也是通用的，只需要把脚本的页面元素ID改一下即可：
 
 ```js
 var startValue = '0.00000002', // Don't lower the decimal point more than 4x of current balance
