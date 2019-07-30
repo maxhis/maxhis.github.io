@@ -255,7 +255,7 @@ $(document).ready(function(){
     $('.post-content').on('mouseup', function(e) {
         var txt = window.getSelection();
         if(txt.toString().length >= 30) {
-            setClipboardData(txt);
+            // setClipboardData(txt);
         }
     });
     
