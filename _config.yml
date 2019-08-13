@@ -61,6 +61,7 @@ kramdown:
 
 RSS: false
 feed:
+  url: 'https://15tar.com'
   path: atom.xml
 
 # Plugins
