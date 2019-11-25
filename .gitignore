@@ -7,3 +7,4 @@ _site
 .MWebMetaData
 
 package-lock.json
+.jekyll-cache

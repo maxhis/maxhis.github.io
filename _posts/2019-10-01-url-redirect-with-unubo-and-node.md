@@ -14,7 +14,7 @@ tags: [Node.js, Unubo]
 
 ## 0. 什么是Unubo？
 
-[Unubo](https://unubo.com/)是一个新出来的帮助快速部署web app的服务，支持Node, Python, Go, Ruby等主流语言和MySQL(MariaDB)、PostgreSQL、Redis数据库，每个app都有1GB RAM, 1 CPU, 500MB硬盘的独立配置，对小型app够用。目前还没有实例个数的限制，更让人惊喜的是还有亚洲节点，国内访问速度有保障。更多详细介绍可以登录官网查看，你会发现它真是一个宝库。
+[Unubo](https://unubo.com/)是一个新出来的帮助快速部署web app的服务，支持Node, Python, Go, Ruby等主流语言和MySQL(MariaDB)、PostgreSQL、Redis数据库，每个app都有1GB RAM, 1 CPU, 500MB硬盘的独立配置，对小型app够用。~~目前还没有实例个数的限制~~，更让人惊喜的是还有亚洲节点，国内访问速度有保障。更多详细介绍可以登录官网查看，你会发现它真是一个宝库。
 
 ## 1. 用Node.js实现网址跳转服务
 
