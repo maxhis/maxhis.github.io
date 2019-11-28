@@ -147,7 +147,7 @@ $(document).ready(function(){
 
         for(var j = current + 1; j<=current + limit; j++) { 
             if(j<=total) {
-                link_html += '<a href="' + baseUrl + 'page' + j + '" class="page-link page-num">' + j + '</a>';
+                link_html += '<a href="' + baseUrl + '/page' + j + '" class="page-link page-num">' + j + '</a>';
             }
         }
         
