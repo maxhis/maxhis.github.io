@@ -1,6 +1,6 @@
 # Site settings 配置站点
 title: 'Ever Notes'
-description: '我是iStar，85后程序员，App开发者。很高兴能在这里与你分享我对技术和生活的思考。'
+description: '我是iStar，85后程序员，App开发者。我在这里记录对技术和生活的思考。'
 keyword: 'Ever Notes, iOS, Android, App开发, Node.js'
 # url: '15tar.com' # your host
 baseurl: ''
@@ -65,4 +65,4 @@ feed:
   path: atom.xml
 
 # Plugins
-plugins: [jekyll-paginate, jekyll-feed, jekyll-gist]
+plugins: [jekyll-paginate, jekyll-feed, jekyll-gist,jekyll-seo-tag]
