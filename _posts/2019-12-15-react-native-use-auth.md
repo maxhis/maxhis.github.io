@@ -6,7 +6,7 @@ category: 技术
 tags: [React Native, Hooks, useAuth, Parse]
 ---
 
-用户鉴权是几乎所有app必备的功能与流程，不管是自己开发app server，还是使用[Parse]()等SaaS服务，都需要处理用户登录、注册、密码找回等一系列操作。而如何在客户端优雅地实现用户鉴权对每个开发者都是挑战。
+用户鉴权是几乎所有app必备的功能与流程，不管是自己开发app server，还是使用[Parse](https://parseplatform.org/)等SaaS服务，都需要处理用户登录、注册、密码找回等一系列操作。而如何在客户端优雅地实现用户鉴权对每个开发者都是挑战。
 
 最近在用React Native开发一个新app，服务端采用自建Parse服务，本文记录如何使用React Hooks来处理整个用户鉴权流程，自认为应该是best practice了:)
 
