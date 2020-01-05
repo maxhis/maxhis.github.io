@@ -1,4 +1,5 @@
 <footer class="g-footer">
-    <section>{{ site.title }} © {{ site.time | date: '%Y' }}</section>
+    {% assign earliestPost = site.posts | last %}
+    <section>{{ site.title }} &copy; {{ earliestPost.date | date: "%Y" }}–{{ 'now' | date: '%Y' }}</section>
     <section>Powered by <a href="//jekyllrb.com">Jekyll</a> | <a href="https://github.com/kaeyleo/jekyll-theme-H2O">Theme H2O</a></section>
 </footer>
