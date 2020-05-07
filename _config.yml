@@ -21,15 +21,18 @@ avatar: '/assets/img/profile.jpg'
 search: true
 
 # Night mode
-nightMode: false
+nightMode: true
 
 # Comments
 disqus: true
 disqus_url: 'https://15tar.disqus.com/embed.js'
 
 # Share
-social-share: true
+social-share: false
 social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
+
+# Reward
+reward: true
 
 # theme color 主题皮肤
 theme-color: 'default'  # pink or default
@@ -39,7 +42,7 @@ postPatterns: 'circuitBoard'
 
 # SNS settings 配置社交网站url: weibo, zhihu, twitter, instagrame, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  weibo: '//weibo.com/maxhis'
+  # weibo: '//weibo.com/maxhis'
   twitter: '//twitter.com/maxhis'
   github: '//github.com/maxhis'
   linkedin: '//www.linkedin.com/in/maxhis'
