@@ -33,6 +33,8 @@ social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
 
 # Reward
 reward: true
+reward-wechat: '/assets/img/social/wechat.JPG'
+reward-alipay: '/assets/img/social/alipay.JPG'
 
 # theme color 主题皮肤
 theme-color: 'default'  # pink or default
