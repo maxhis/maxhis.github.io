@@ -24,10 +24,10 @@ search: true
 nightMode: true
 
 # Comments
-disqus: false
+disqus: true
 disqus_url: 'https://15tar.disqus.com/embed.js'
 
-gitalk: true
+gitalk: false
 gitalk_client_id: 'd6c7f1ea96f3c431398d'
 gitalk_client_secret: 'b23e0b03e92839222d8c2ea19b6ac22ed9607071'
 gitalk_repo: 'blog-comments'
