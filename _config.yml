@@ -30,7 +30,7 @@ disqus_url: 'https://15tar.disqus.com/embed.js'
 gitalk: true
 gitalk_client_id: 'Iv1.2cb0c34933477600'
 gitalk_client_secret: 'ba0f3641c7bfd68c5c42dea92dc9cd380b073063'
-gitalk_repo: 'https://github.com/maxhis/blog-comments'
+gitalk_repo: 'blog-comments'
 gitalk_owner: 'maxhis'
 
 # Share
