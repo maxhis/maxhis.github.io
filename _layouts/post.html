@@ -107,23 +107,16 @@
         <div id="disqus_thread"></div>
     </section>
     {% endif %}
-    {% if site.gitalk %}
+    {% if site.utteranc %}
     <section class="post-footer-item comment">
-        <div id="gitalk-container"></div>
-    </section>
-    <script>
-        const gitalk = new Gitalk({
-            clientID: '{{site.gitalk_client_id}}',
-            clientSecret: '{{site.gitalk_client_secret}}',
-            repo: '{{site.gitalk_repo}}',      // The repository of store comments,
-            owner: '{{site.gitalk_owner}}',
-            admin: ['{{site.gitalk_owner}}'],
-            id: location.pathname,      // Ensure uniqueness and length less than 50
-            distractionFreeMode: false  // Facebook-like distraction free mode
-        })
-
-        gitalk.render('gitalk-container')
+    <script src="https://utteranc.es/client.js"
+        repo="maxhis/maxhis.github.io"
+        issue-term="title"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
     </script>
+    </section>
     {% endif %}
 <script src="{{ site.baseurl }}/assets/js/social-share.min.js"></script>
 
