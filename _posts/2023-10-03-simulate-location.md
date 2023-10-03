@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "使用Xcode修改iOS设备位置"
+title: "使用Xcode修改iOS设备定位"
 date: 2023-10-03 10:00:00 +0800
 category: 技术
 tags: [iOS]
