@@ -1,5 +1,5 @@
 article:
-  auto_cover: true
+  auto_cover: false
 
 comments:
   service: beaudar
