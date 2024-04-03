@@ -1,0 +1,7 @@
+article:
+  auto_cover: true
+
+comments:
+  service: beaudar
+  beaudar:
+    repo: maxhis/blog-comments
