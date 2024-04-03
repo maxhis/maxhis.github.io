@@ -9,7 +9,10 @@ beaudar:
 {% endbanner %}
 
 
-
+{% grid %}
+<!-- cell -->
 {% link https://running.15tar.com Running Page icon:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU  desc:true %}
 
+<!-- cell -->
 {% link https://www.strava.com/athletes/114046401 Strava  desc:true %}
+{% endgrid %}
