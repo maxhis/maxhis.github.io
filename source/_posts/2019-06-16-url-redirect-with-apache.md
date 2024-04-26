@@ -34,6 +34,6 @@ Redirect 301 /go/jms https://justmysocks1.net/members/aff.php?aff=2084
 
 然后访问 yourdomain.com/go/jms 就会跳转到真正的aff链接。后续如果要添加更多的跳转，只需要维护这个列表就可以了，还是很简单方便的。
 
-特意为我的跳转服务用了一个二级域名：go.oio.dev，[go.oio.dev/jms](https://go.oio.dev/jms)这种链接看着还有点专业呢：）
+特意为我的跳转服务用了一个二级域名：go.15tar.com，[go.15tar.com/jms](https://go.15tar.com/jms)这种链接看着还有点专业呢：）
 
-*如果你没有安装Apache，推荐[Digital Ocean](https://go.oio.dev/do)的[这篇教程](https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-debian-9)，顺带可以把https也搞定。*
+*如果你没有安装Apache，推荐[Digital Ocean](https://go.15tar.com/do)的[这篇教程](https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-debian-9)，顺带可以把https也搞定。*
