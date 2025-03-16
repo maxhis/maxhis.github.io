@@ -21,6 +21,10 @@ cover: "/images/runrise/runrise-cover.png"
 
 {% image /images/runrise/IMG_2825.PNG 配速计算器 width:300px fancybox:true %}
 
+还不错的运动卡片
+
+{% image /images/runrise/share-card.png 运动卡片 width:300px fancybox:true %}
+
 一年多过去，想着可能也有人需要这样的工具，就决定把它分享出来。
 
 {% quot 下载体验 %}
