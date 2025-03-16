@@ -9,3 +9,4 @@ _site
 package-lock.json
 .jekyll-cache
 .vscode
+public
