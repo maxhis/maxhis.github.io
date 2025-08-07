@@ -1,0 +1,70 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景渐变 -->
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3B82F6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6366F1;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="card" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFFFFF;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#F8FAFC;stop-opacity:0.8" />
+    </linearGradient>
+  </defs>
+  
+  <!-- 背景 -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  
+  <!-- 装饰性圆圈 -->
+  <circle cx="100" cy="100" r="50" fill="#FFFFFF" opacity="0.1"/>
+  <circle cx="1100" cy="530" r="80" fill="#FFFFFF" opacity="0.1"/>
+  <circle cx="200" cy="500" r="30" fill="#FFFFFF" opacity="0.15"/>
+  <circle cx="1000" cy="150" r="40" fill="#FFFFFF" opacity="0.1"/>
+  
+  <!-- 主要内容卡片 -->
+  <rect x="150" y="120" width="900" height="390" rx="24" fill="url(#card)" stroke="#FFFFFF" stroke-width="2" opacity="0.95"/>
+  
+  <!-- 标题 -->
+  <text x="600" y="220" font-family="Arial, sans-serif" font-size="48" font-weight="bold" text-anchor="middle" fill="#1E293B">
+    中文电码查询系统
+  </text>
+  
+  <!-- 副标题 -->
+  <text x="600" y="270" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#64748B">
+    标准电报码汉字双向查询工具
+  </text>
+  
+  <!-- 示例展示 -->
+  <g transform="translate(250, 320)">
+    <!-- 汉字示例 -->
+    <rect x="0" y="0" width="120" height="80" rx="12" fill="#3B82F6" opacity="0.1" stroke="#3B82F6" stroke-width="2"/>
+    <text x="60" y="35" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="#3B82F6">中</text>
+    <text x="60" y="60" font-family="Arial, monospace" font-size="16" text-anchor="middle" fill="#64748B">0022</text>
+    
+    <!-- 箭头 -->
+    <path d="M140 40 L180 40 M170 30 L180 40 L170 50" stroke="#64748B" stroke-width="3" fill="none"/>
+    
+    <!-- 电码示例 -->
+    <rect x="200" y="0" width="120" height="80" rx="12" fill="#6366F1" opacity="0.1" stroke="#6366F1" stroke-width="2"/>
+    <text x="260" y="35" font-family="Arial, monospace" font-size="20" font-weight="bold" text-anchor="middle" fill="#6366F1">0022</text>
+    <text x="260" y="60" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#64748B">电码</text>
+    
+    <!-- 双向箭头 -->
+    <path d="M340 40 L380 40 M370 30 L380 40 L370 50" stroke="#64748B" stroke-width="3" fill="none"/>
+    <path d="M380 40 L340 40 M350 30 L340 40 L350 50" stroke="#64748B" stroke-width="3" fill="none"/>
+    
+    <!-- 查询示例 -->
+    <rect x="400" y="0" width="120" height="80" rx="12" fill="#10B981" opacity="0.1" stroke="#10B981" stroke-width="2"/>
+    <text x="460" y="35" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="#10B981">文</text>
+    <text x="460" y="60" font-family="Arial, monospace" font-size="16" text-anchor="middle" fill="#64748B">2429</text>
+  </g>
+  
+  <!-- 底部描述 -->
+  <text x="600" y="460" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="#64748B">
+    支持汉字转电码和电码转汉字的双向查询
+  </text>
+  
+  <!-- 网址 -->
+  <text x="600" y="490" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#94A3B8">
+    telegraph.creawesome.com
+  </text>
+</svg>
