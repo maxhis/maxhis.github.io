@@ -567,6 +567,11 @@ hasown@^2.0.0:
   dependencies:
     function-bind "^1.1.2"
 
+hexo-analytics@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.npmjs.org/hexo-analytics/-/hexo-analytics-0.1.1.tgz"
+  integrity sha512-WJK/HowOOpmR8MDQN8L42+5635qYRqtVPn64xPCd3mSN0HYJ+9HbizjoDUDb2ll3Zlb8MLqix8GF5N7fgVbK1w==
+
 hexo-cli@^4.3.0:
   version "4.3.1"
   resolved "https://registry.npmjs.org/hexo-cli/-/hexo-cli-4.3.1.tgz"
