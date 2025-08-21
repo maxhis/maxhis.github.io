@@ -118,3 +118,11 @@ feed:
   # icon: icon.png
   autodiscovery: true
   template:
+
+analytics:
+  google_analytics:
+    enable: false
+    measurement_id: <your measurement id>
+  microsoft_clarity:
+    enable: true
+    project_id: sy9xj49t5x
