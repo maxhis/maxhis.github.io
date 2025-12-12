@@ -4,7 +4,7 @@ title: "iOS开发的那些坑（五）"
 subtitle: "Swift中Int在不同平台下的位数不一致的问题"
 date: 2017-09-28 21:00:00 +0800
 category: iOS
-tags: iOS 开发小记 Swift
+tags: [iOS, 开发小记, Swift] 
 ---
 
 今天收到一个[瓦工助手](https://itunes.apple.com/app/id1267833691)用户的反馈，说磁盘和流量的数据显示不正确，刚开始还挺奇怪的，因为App上线这么久还没听说过有这样的问题，直到他截图发过来，看到数字是负数，才意识到可能是数字溢出了。

@@ -3,7 +3,7 @@ layout: post
 title: "以Closure的方式优雅地为UIControl addTarget"
 date: 2018-05-28 11:00:00 +0800
 category: iOS
-tags: iOS 开发小记 Swift
+tags: [iOS, 开发小记, Swift] 
 ---
 
 习惯了ES6的闭包，回到Swift下发现为UIButton手动添加一个点击事件，实在是太ugly，你得先定义一个方法(selector)，然后用OC时代的方式去call，最不方便的是传参数，尤其是你想使用本地变量的时候。

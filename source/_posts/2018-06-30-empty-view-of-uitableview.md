@@ -3,7 +3,7 @@ layout: post
 title: "最简单的方式为UITableView添加empty view"
 date: 2018-06-30 20:30:00 +0800
 category: iOS
-tags: iOS 开发小记 UITableView
+tags: [iOS, 开发小记]
 ---
 
 在 UITableView 或 UICollectionView 列表数据为空时，我们一般会显示一些提示信息，姑且称它为 Empty View，这已经是很通用的做法了，但其实并没有通用的实现方式，至少 Apple 没有提供。在以前的项目中，我都是使用[DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet)，功能很强大也比较容易集成，但毕竟是需要引入了一个第三方的库。

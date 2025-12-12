@@ -1,0 +1,37 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="flutterGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#42A5F5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0D47A1;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="riverpodGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6200EA;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#304FFE;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="400" fill="#f0f4f8" />
+
+  <!-- Flutter Logo Representation (Stylized) -->
+  <g transform="translate(200, 200) scale(0.8)">
+    <path d="M 0 -100 L 80 -20 L 0 60 L -80 -20 Z" fill="url(#flutterGradient)" opacity="0.8" />
+    <path d="M 0 -60 L 40 -20 L 0 20 L -40 -20 Z" fill="#fff" opacity="0.5" />
+  </g>
+
+  <!-- Riverpod Logo Representation (Stylized Hexagon/Flow) -->
+  <g transform="translate(600, 200) scale(0.8)">
+    <path d="M -70 -40 L 0 -80 L 70 -40 L 70 40 L 0 80 L -70 40 Z" fill="url(#riverpodGradient)" opacity="0.8" />
+    <circle cx="0" cy="0" r="30" fill="#fff" opacity="0.3" />
+    <path d="M -20 0 Q 0 20 20 0" stroke="#fff" stroke-width="5" fill="none" />
+  </g>
+
+  <!-- Connecting Line -->
+  <path d="M 280 200 Q 400 200 520 200" stroke="#90A4AE" stroke-width="4" stroke-dasharray="10,5" fill="none" />
+
+  <!-- Text -->
+  <text x="200" y="320" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#0277BD" text-anchor="middle">Flutter</text>
+  <text x="600" y="320" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#4527A0" text-anchor="middle">Riverpod</text>
+  
+  <text x="400" y="100" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#37474F" text-anchor="middle">State Management</text>
+</svg>
