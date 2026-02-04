@@ -1,0 +1,58 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D9488" /> <!-- Teal 600 -->
+      <stop offset="100%" stop-color="#115E59" /> <!-- Teal 800 -->
+    </linearGradient>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="10" stdDeviation="15" flood-color="#000000" flood-opacity="0.2" />
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#ffffff" fill-opacity="0.1" />
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect x="0" y="0" width="1200" height="630" fill="url(#bgGrad)" />
+  
+  <!-- Subtle Grid Overlay -->
+  <rect x="0" y="0" width="1200" height="630" fill="url(#grid)" />
+
+  <!-- Main Symbol: Centered and Scaled Up -->
+  <g transform="translate(600, 315) scale(2.5)" filter="url(#shadow)">
+    <!-- Shape 1: The Lender (Top/Right Hook) -->
+    <path d="M -80 -60 
+             L 60 -60 
+             A 60 60 0 0 1 120 0 
+             L 120 80 
+             A 20 20 0 0 1 80 80 
+             L 80 80 
+             A 20 20 0 0 1 40 40 
+             L 40 0 
+             A 20 20 0 0 0 20 -20 
+             L -80 -20 
+             A 20 20 0 0 1 -100 -40 
+             L -100 -40 
+             A 20 20 0 0 1 -80 -60 Z" 
+          fill="#F0FDFA" /> <!-- Mint 50 -->
+
+    <!-- Shape 2: The Borrower (Bottom/Left Hook) -->
+    <path d="M 80 60 
+             L -60 60 
+             A 60 60 0 0 1 -120 0 
+             L -120 -80 
+             A 20 20 0 0 1 -80 -80 
+             L -80 -80 
+             A 20 20 0 0 1 -40 -40 
+             L -40 0 
+             A 20 20 0 0 0 -20 20 
+             L 80 20 
+             A 20 20 0 0 1 100 40 
+             L 100 40 
+             A 20 20 0 0 1 80 60 Z" 
+          fill="#5EEAD4" /> <!-- Teal 300 -->
+          
+    <!-- Central Coin / Dot -->
+    <circle cx="0" cy="0" r="18" fill="#CCFBF1" />
+  </g>
+</svg>
