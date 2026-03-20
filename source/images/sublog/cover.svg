@@ -1,0 +1,125 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#232B42"/>
+      <stop offset="0.48" stop-color="#1C2744"/>
+      <stop offset="1" stop-color="#131C34"/>
+    </linearGradient>
+    <radialGradient id="glowBlue" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(960 120) rotate(126) scale(320 340)">
+      <stop stop-color="#66B0FF" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowViolet" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(200 520) rotate(-42) scale(320 265)">
+      <stop stop-color="#9083FF" stop-opacity="0.58"/>
+      <stop offset="1" stop-color="#7C5CFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowTop" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 40) rotate(90) scale(200 500)">
+      <stop stop-color="#F8FBFF" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#F8FBFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="folderTab" x1="286" y1="318" x2="500" y2="472" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFE7A8"/>
+      <stop offset="1" stop-color="#F4BF62"/>
+    </linearGradient>
+    <linearGradient id="folderBody" x1="260" y1="390" x2="737" y2="786" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF4D7"/>
+      <stop offset="1" stop-color="#F2C46E"/>
+    </linearGradient>
+    <linearGradient id="folderLip" x1="250" y1="452" x2="774" y2="452" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFE9BA"/>
+      <stop offset="1" stop-color="#F0B457"/>
+    </linearGradient>
+    <linearGradient id="cardBlue" x1="340" y1="304" x2="557" y2="575" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EEF6FF"/>
+      <stop offset="1" stop-color="#CFE4FF"/>
+    </linearGradient>
+    <linearGradient id="cardPurple" x1="423" y1="274" x2="669" y2="577" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F4EFFF"/>
+      <stop offset="1" stop-color="#E2D8FF"/>
+    </linearGradient>
+    <linearGradient id="cardOrange" x1="500" y1="318" x2="733" y2="584" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF2EA"/>
+      <stop offset="1" stop-color="#FFD5B8"/>
+    </linearGradient>
+    <linearGradient id="cardGreen" x1="389" y1="370" x2="646" y2="672" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ECFFF7"/>
+      <stop offset="1" stop-color="#C7F4E1"/>
+    </linearGradient>
+    <filter id="shadowLarge" x="120" y="120" width="820" height="820" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="26"/>
+      <feGaussianBlur stdDeviation="34"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.035 0 0 0 0 0.055 0 0 0 0 0.13 0 0 0 0.36 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+    </filter>
+    <filter id="shadowCard" x="200" y="148" width="640" height="600" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="18"/>
+      <feGaussianBlur stdDeviation="18"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.055 0 0 0 0 0.086 0 0 0 0 0.176 0 0 0 0.2 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bgGradient)"/>
+  <rect width="1200" height="630" fill="url(#glowTop)"/>
+  <circle cx="960" cy="120" r="310" fill="url(#glowBlue)"/>
+  <circle cx="200" cy="520" r="276" fill="url(#glowViolet)"/>
+  <path d="M0 500C220 430 400 410 600 430C800 450 1000 510 1200 580V630H0V500Z" fill="white" fill-opacity="0.06"/>
+
+  <!-- Left: Title Text -->
+  <text x="80" y="220" font-family="'PingFang SC', 'Noto Sans SC', 'Microsoft YaHei', sans-serif" font-size="72" font-weight="800" fill="white" fill-opacity="0.95">订小管</text>
+  <text x="80" y="290" font-family="'PingFang SC', 'Noto Sans SC', 'Microsoft YaHei', sans-serif" font-size="28" font-weight="500" fill="white" fill-opacity="0.65">SubLog · 订阅管理小程序</text>
+
+  <text x="80" y="370" font-family="'PingFang SC', 'Noto Sans SC', 'Microsoft YaHei', sans-serif" font-size="22" fill="white" fill-opacity="0.45">随用随开 · 用完即走 · 数据云同步</text>
+
+  <!-- Feature pills -->
+  <rect x="80" y="410" width="108" height="36" rx="18" fill="white" fill-opacity="0.1"/>
+  <text x="134" y="434" text-anchor="middle" font-family="'PingFang SC', 'Noto Sans SC', sans-serif" font-size="15" fill="white" fill-opacity="0.7">支出概览</text>
+
+  <rect x="200" y="410" width="108" height="36" rx="18" fill="white" fill-opacity="0.1"/>
+  <text x="254" y="434" text-anchor="middle" font-family="'PingFang SC', 'Noto Sans SC', sans-serif" font-size="15" fill="white" fill-opacity="0.7">多币种</text>
+
+  <rect x="320" y="410" width="108" height="36" rx="18" fill="white" fill-opacity="0.1"/>
+  <text x="374" y="434" text-anchor="middle" font-family="'PingFang SC', 'Noto Sans SC', sans-serif" font-size="15" fill="white" fill-opacity="0.7">到期提醒</text>
+
+  <!-- Right: Illustration (scaled & repositioned from original) -->
+  <g transform="translate(520 -50) scale(0.65)">
+    <g filter="url(#shadowCard)">
+      <rect x="320" y="258" width="196" height="266" rx="34" transform="rotate(-8 320 258)" fill="url(#cardBlue)"/>
+      <rect x="330" y="303" width="40" height="22" rx="11" transform="rotate(-8 330 303)" fill="#3B82F6" fill-opacity="0.92"/>
+      <rect x="330" y="344" width="128" height="16" rx="8" transform="rotate(-8 330 344)" fill="#99B9EA"/>
+      <rect x="330" y="382" width="152" height="16" rx="8" transform="rotate(-8 330 382)" fill="#B4CDEF"/>
+
+      <rect x="418" y="222" width="212" height="284" rx="34" transform="rotate(6 418 222)" fill="url(#cardPurple)"/>
+      <rect x="465" y="260" width="40" height="22" rx="11" transform="rotate(6 465 260)" fill="#7C5CFF" fill-opacity="0.9"/>
+      <rect x="456" y="312" width="134" height="16" rx="8" transform="rotate(6 456 312)" fill="#B9A6EE"/>
+      <rect x="452" y="352" width="160" height="16" rx="8" transform="rotate(6 452 352)" fill="#D0C2F7"/>
+
+      <rect x="534" y="286" width="186" height="248" rx="32" transform="rotate(14 534 286)" fill="url(#cardOrange)"/>
+      <rect x="592" y="326" width="38" height="21" rx="10.5" transform="rotate(14 592 326)" fill="#F97316" fill-opacity="0.92"/>
+      <rect x="579" y="370" width="110" height="15" rx="7.5" transform="rotate(14 579 370)" fill="#E7B390"/>
+      <rect x="569" y="406" width="132" height="15" rx="7.5" transform="rotate(14 569 406)" fill="#F2C8A8"/>
+
+      <rect x="418" y="366" width="228" height="182" rx="28" fill="url(#cardGreen)"/>
+      <rect x="450" y="402" width="38" height="21" rx="10.5" fill="#10B981" fill-opacity="0.9"/>
+      <rect x="450" y="447" width="148" height="15" rx="7.5" fill="#A3DCC8"/>
+      <rect x="450" y="482" width="112" height="15" rx="7.5" fill="#BEE9D8"/>
+    </g>
+
+    <g filter="url(#shadowLarge)">
+      <path d="M288 358C288 336.461 305.461 319 327 319H455.229C469.502 319 483.026 325.386 492.135 336.399L532.634 385.37C539.67 393.879 550.13 398.81 561.174 398.81H697C718.539 398.81 736 416.271 736 437.81V486H288V358Z" fill="url(#folderTab)"/>
+      <path d="M250 468C250 441.49 271.49 420 298 420H726C752.51 420 774 441.49 774 468V675C774 736.856 723.856 787 662 787H362C300.144 787 250 736.856 250 675V468Z" fill="url(#folderBody)"/>
+      <path d="M250 468C250 441.49 271.49 420 298 420H726C752.51 420 774 441.49 774 468V484H250V468Z" fill="url(#folderLip)"/>
+      <path d="M306 548C306 524.804 324.804 506 348 506H676C699.196 506 718 524.804 718 548V651C718 674.196 699.196 693 676 693H348C324.804 693 306 674.196 306 651V548Z" fill="#FFF8E9" fill-opacity="0.38"/>
+      <path d="M306 548C306 524.804 324.804 506 348 506H676C699.196 506 718 524.804 718 548" stroke="white" stroke-opacity="0.48" stroke-width="10" stroke-linecap="round"/>
+      <text x="374" y="648" font-family="Arial, 'PingFang SC', sans-serif" font-size="124" font-weight="800" fill="#C98A31" fill-opacity="0.58" stroke="white" stroke-opacity="0.18" stroke-width="5" paint-order="stroke">¥</text>
+      <text x="562" y="646" font-family="Arial, 'PingFang SC', sans-serif" font-size="112" font-weight="800" fill="#C98A31" fill-opacity="0.54" stroke="white" stroke-opacity="0.16" stroke-width="5" paint-order="stroke">$</text>
+    </g>
+  </g>
+</svg>

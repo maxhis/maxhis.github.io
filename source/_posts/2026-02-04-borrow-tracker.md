@@ -41,4 +41,5 @@ cover: "/images/borrow-tracker/cover.svg"
 {% image /images/borrow-tracker/qr_code.png 小程序码 width:300px fancybox:true %}
 
 借钱是情分，记账是本分。希望「借小记」能帮你告别借钱后的“失忆”尴尬，让每一笔善意都有回响。
+
 欢迎大家体验，如果有任何 bug 或建议，欢迎在博客下方留言或在小程序内反馈！
